@@ -1,5 +1,8 @@
 # video-ffmpeg.yazi
 
+> [!IMPORTANT]
+> Since yazi v0.4 this plugin is already built-in (https://github.com/sxyazi/yazi/pull/1928)
+
 A plugin for [yazi](https://github.com/sxyazi/yazi) to preview videos without using 
 [ffmpegthumbnailer](https://github.com/dirkvdb/ffmpegthumbnailer) since I couldn't get it working for windows.
 
